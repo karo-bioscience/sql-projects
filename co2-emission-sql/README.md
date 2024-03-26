@@ -1,3 +1,3 @@
-Analyzing Motorcycle Part Sales
+Analyzing industry carbon emissions
 =============================================================
-* Project name: Analyzing Motorcycle Part Sales
+* Project name: Analyzing industry carbon emissions
